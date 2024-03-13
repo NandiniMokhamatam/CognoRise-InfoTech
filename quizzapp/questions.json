@@ -1,0 +1,173 @@
+[
+    {
+        "question": "What does HTML stand for?",
+"choice1": "Hypertext Markup Language",
+"choice2": "Hyperlink and Text Markup Language",
+"choice3": "Home Tool Markup Language",
+"choice4": "Hypertext Transfer Markup Language",
+"answer": 1
+
+    },
+    {
+        "question": "Which programming language is commonly used for client-side scripting in web development?",
+"choice1": "Java",
+"choice2": "Python",
+"choice3": "JavaScript",
+"choice4": "C++",
+"answer": 3
+    },
+    {
+        "question": "What protocol is used for secure data transmission over the internet?",
+"choice1": "HTTP",
+"choice2": "FTP",
+"choice3": "SMTP",
+"choice4": "HTTPS",
+"answer": 4
+
+    },
+    {
+        "question": "What does the term 'HTTP' stand for in web technology?",
+"choice1": "Hyper Transfer Text Protocol",
+"choice2": "Hypertext Transfer Protocol",
+"choice3": "Hyperlink Transmission Text Protocol",
+"choice4": "Hypertext Transmission Text Protocol",
+"answer": 2
+    },
+    {
+        "question": "What does CSS stand for in the context of web development?",
+"choice1": "Cascading Style Sheets",
+"choice2": "Computer Style Sheets",
+"choice3": "Creative Style Sheets",
+"choice4": "Coded Style Sheets",
+"answer": 1
+    },
+    {
+        "question": "Which markup language is used to structure content on the web?",
+        "choice1": "XML",
+        "choice2": "JSON",
+        "choice3": "HTML",
+        "choice4": "YAML",
+        "answer": 3
+
+    },
+    {
+        "question" : "Who is the current President Of India ?",
+        "choice1" : "Pranab Mukharjee",
+        "choice2" : "Narendra Modi",
+        "choice3" : "Druapadi Murmur",
+        "choice4" : "Rahul Gandhi",
+        "answer" : 3
+
+    },
+    {
+        "question": "What does AJAX stand for in web development?",
+"choice1": "Asynchronous JavaScript and XML",
+"choice2": "Advanced JavaScript and XML",
+"choice3": "Asynchronous JavaScript and XHTML",
+"choice4": "Automated JavaScript and XML",
+"answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a valid HTTP status code?",
+"choice1": "404",
+"choice2": "200",
+"choice3": "300",
+"choice4": "500",
+"answer": 3
+
+    },
+    {
+        "question" : "Who was the First President of India ?",
+        "choice1" : "A.P.J Abdul Kalam",
+        "choice2" : "Dr. Rajendra Prasad",
+        "choice3" : "Sarvepalli Radhakrishnan",
+        "choice4" : "Zakir Hussain",
+        "answer" : 2
+
+    },
+    {
+        "question": "Which of the following is a widely used front-end framework for building user interfaces in web applications?",
+"choice1": "React",
+"choice2": "Spring",
+"choice3": "Django",
+"choice4": "Express",
+"answer": 1
+    },
+    {
+        "question": "What is the purpose of a 'cookie' in web technology?",
+    "choice1": "To store data on the client's computer",
+    "choice2": "To securely transfer files between servers",
+    "choice3": "To authenticate users",
+    "choice4": "To encrypt website content",
+    "answer": 1
+    },
+    {
+        "question": "Which protocol is used for transferring files between a client and a server?",
+        "choice1": "FTP",
+        "choice2": "SMTP",
+        "choice3": "HTTP",
+        "choice4": "TCP",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a commonly used database language for web applications?",
+"choice1": "SQL",
+"choice2": "Java",
+"choice3": "C#",
+"choice4": "Python",
+"answer": 1
+
+    },
+    {
+        "question": "What does the term 'SEO' stand for in the context of web development?",
+"choice1": "Search Engine Orchestration",
+"choice2": "Site Efficiency Optimization",
+"choice3": "Search Engine Optimization",
+"choice4": "Secure Encoding Operations",
+"answer": 3
+
+    },
+    {
+        "question": "Which of the following is NOT a popular web server software?",
+"choice1": "Apache",
+"choice2": "Nginx",
+"choice3": "Tomcat",
+"choice4": "IIS",
+"answer": 3
+
+    },
+    {
+        "question": "What is the purpose of a CSS framework in web development?",
+    "choice1": "To handle server-side scripting",
+    "choice2": "To facilitate the creation of responsive and visually appealing designs",
+    "choice3": "To manage server-side databases",
+    "choice4": "To optimize website performance",
+    "answer": 2
+    },
+    {
+        "question": "Which of the following is NOT a commonly used programming language for backend development in web applications?",
+"choice1": "Java",
+"choice2": "PHP",
+"choice3": "HTML",
+"choice4": "Node.js",
+"answer": 3
+
+    },
+    {
+        "question": "What does 'DOM' stand for in the context of web development?",
+"choice1": "Data Object Model",
+"choice2": "Document Object Model",
+"choice3": "Dynamic Output Module",
+"choice4": "Digital Object Management",
+"answer": 2
+    },
+    {
+        "question": "What role does 'Ajax' play in web development?",
+"choice1": "It's a programming language used for backend development",
+"choice2": "It allows asynchronous communication between the client and server",
+"choice3": "It's a design pattern for creating responsive layouts",
+"choice4": "It's a framework for building mobile applications",
+"answer": 2
+
+    }
+]
